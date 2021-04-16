@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imamhs
-- 👀 I’m interested in simulation, data modelling, gaming, Linux and many more
+- 👀 I’m interested in simulation and design, data modelling, gaming, Linux and many more
 - 🌱 I’m currently learning data predicting
 - 💞️ I’m looking to collaborate on above things.
 - 📫 Reach me via emamhd@gmail.com
