@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Imam
-- 👀 I’m interested in simulation and design, data modelling, gaming, Linux and many more
+- 👀 I’m interested in simulation and system design, data modelling, gaming, Linux and many more
 - 🌱 I’m currently learning data predicting
 - 💞️ Are you interested in collaborating on the above things?
 - 📫 Reach to me via emamhd@gmail.com
