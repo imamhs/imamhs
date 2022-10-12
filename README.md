@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Imam
 - 👀 I’m interested in data modelling and simulation using numerical techniques (my papers [1](https://www.scitepress.org/PublicationsDetail.aspx?ID=zj9r2DRmALI=&t=1),[2](https://www.scitepress.org/PublicationsDetail.aspx?ID=vh3FKZ8izDk=&t=1))
+- 👀 I’m interested in sensors and data fusions and applications
 - 👀 I’m experienced in Linux development, distributed networking systems design, application of simulations, software architecture streamliming and abstraction, just to name few
-- 👀 I’m interested in computer simulation, system design, data modelling, gaming, Linux, operating systems and many more
+- 👀 I’m interested in computer simulation, system design, gaming, Linux, operating systems and many more
 - 👀 I’m interested in Linux based systems design and deployment
 - 👀 I’m interested in high level abstractions and system specification and design for efficiency
 - 🌱 One of things I’m currently learning is numerical data predicting and structure
