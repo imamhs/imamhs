@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Imam
+- 👀 I’m interested in data modelling and simulation using numerical techniques
 - 👀 I’m experienced in Linux development, distributed networking systems design, application of simulations, software architecture streamliming and abstraction, just to name few 
 - 👀 I’m interested in computer simulation, system design, data modelling, gaming, Linux, operating systems and many more
 - 👀 I’m interested in Linux based systems design and deployment
