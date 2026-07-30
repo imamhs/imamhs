@@ -7,7 +7,7 @@
 - 👀 I’m interested in high level abstractions and system specification and design for efficiency
 - 🌱 One of things I’m currently learning is numerical data predicting and structure
 - 💞️ Are you interested in collaborating on the above things?
-- 👀 In my free time I tests games on Linux, https://www.youtube.com/@OnthimGaming
+- 👀 My YouTube channels, https://www.youtube.com/@OnthimGaming, https://www.youtube.com/@OnthimArtificialIntelligence, https://www.youtube.com/@OnthimOSObserver
 - 📫 Reach out to me via emamhd@gmail.com
 
 <!---
