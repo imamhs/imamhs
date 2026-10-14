@@ -7,7 +7,7 @@ I have a relentless curiosity for how things work, bridging the gap between intr
 * **2015:** Developed a high-performance OpenFlow network switch controller (C++, POSIX API) that outperformed traditional controllers like NOX and POX in throughput and latency. 
 * **2015:** Designed robust, simplified mechanical components for an Automated Manual Transmission (AMT) powertrain test rig.
 * **2016 – 2017:** Built a novel numerical simulation platform for multivariable dynamic motion conditions.
-* **Open Source & Linux:** A Linux enthusiast since RedHat 7.1! I actively file bug reports for Linux gaming and driver development to help push the ecosystem forward. 
+* **Open Source & Linux:** A Linux enthusiast since RedHat 7.1! I actively design utilities that helps desktop Linux and file bug reports for Linux gaming and driver development to help push the ecosystem forward. 
 
 ---
 
