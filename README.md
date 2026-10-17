@@ -1,13 +1,13 @@
 # Hi there, welcome to my digital workspace! 👋
 
 ### 🚀 About Me
-I have a relentless curiosity for how things work, bridging the gap between intricate software architectures and applied mechanical engineering. My tech journey started at age 12 when I began writing computer programs for fun, and it has evolved into a career of building highly optimized, scalable, and robust systems. 
+I have a relentless curiosity for how things work, bridging the gap between intricate software architectures and applied mechanical engineering. My tech journey started at age 12 when I began writing computer programs for fun, and it has evolved into a career of building highly optimised, scalable, and robust systems. 
 
 **My Engineering Milestones:**
-* **2015:** Developed a high-performance OpenFlow network switch controller (C++, POSIX API) that outperformed traditional controllers like NOX and POX in throughput and latency. 
-* **2015:** Designed robust, simplified mechanical components for an Automated Manual Transmission (AMT) powertrain test rig.
-* **2016 – 2017:** Built a novel numerical simulation platform for multivariable dynamic motion conditions.
-* **Open Source & Linux:** A Linux enthusiast since RedHat 7.1! I actively design utilities that helps desktop Linux and file bug reports for Linux gaming and driver development to help push the ecosystem forward. 
+* **2015:** Developed a high-performance OpenFlow network switch controller that outperformed traditional controllers like in throughput and latency. 
+* **2015:** Designed robust and simplified mechanical components for an Automated Manual Transmission (AMT) powertrain experimental rig.
+* **2016 – 2017:** Built a novel numerical simulation platform for multi factors dynamic motion conditions.
+* **Open Source & Linux:** A Linux enthusiast since RedHat 7.1! I actively design utilities that helps desktop Linux and file bug reports for Linux gaming and driver developments to help push the ecosystem forward. 
 
 ---
 
@@ -17,13 +17,13 @@ I thrive at the intersection of software, hardware, and mathematics. Here is wha
 💻 **Software & Systems Architecture**
 - High-level abstractions & system specification
 - Linux development, deployment, & systems design
-- Front-End & Back-End server development
+- Front-End & Back-End development
 - Game engine programming & 3D APIs
 
 ⚙️ **Engineering & Simulation**
-- Numerical computer simulations & data modelling
+- Numerical simulations & data modelling
 - Dynamic motion analysis & kinematics
-- Computer-aided mechanical design
+- Computer-aided mechanical design and simulation
 - Mechanical vibration & signal processing
 - Programmable devices & system automation
 
