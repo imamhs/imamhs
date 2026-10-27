@@ -1,4 +1,4 @@
-# Hi there, welcome to my programming workspace! 👋
+# Hi there, welcome to my workspace! 👋
 
 ### 🚀 About Me
 I have a relentless curiosity for how things work, bridging the gap between intricate software architectures and applied mechanical engineering. My tech journey started at age 12 when I began writing computer programs for fun, and it has evolved into a career of building highly optimised, scalable, and robust systems. 
