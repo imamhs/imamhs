@@ -4,10 +4,9 @@
 I have a relentless curiosity for how things work, bridging the gap between intricate software architectures and applied mechanical engineering. My tech journey started at age 12 when I began writing computer programs for fun, and it has evolved into a career of building highly optimised, scalable, and robust systems. 
 
 **My Engineering Milestones:**
-* **2015:** Developed a high-performance OpenFlow network switch controller that outperformed traditional controllers like in throughput and latency. 
-* **2015:** Designed robust and simplified mechanical components for an Automated Manual Transmission (AMT) powertrain experimental rig.
-* **2016 – 2017:** Built a novel numerical simulation platform for multi factors dynamic motion conditions.
-* **Open Source & Linux:** A Linux enthusiast since RedHat 7.1! I actively design utilities that helps desktop Linux and file bug reports for Linux gaming and driver developments to help push the ecosystem forward. 
+* Designed robust and simplified mechanical components for an Automated Manual Transmission (AMT) powertrain experimental rig.
+* Built a novel numerical simulation platform for multi factors dynamic motion conditions.
+* A Linux enthusiast since RedHat 7.1! I actively design utilities that helps desktop Linux and file bug reports for Linux gaming and driver developments to help push the ecosystem forward. 
 
 ---
 
